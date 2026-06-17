@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Everything Clipboard</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 17 Jun 2026 13:14:20 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 0.2.0
+
+- Adds Sparkle-powered update checks for tester releases.
+- Allows normal macOS multi-selection in the clipboard list so several selected items can be deleted together.
+- Keeps Help and Settings as auxiliary windows so status-menu Open and Settings window ordering behave correctly.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/wch1zpnk/jimz-clipboard-manager-updates/main/Releases/EverythingClipboard-0.2.0-b2.dmg" length="6131074" type="application/octet-stream" sparkle:edSignature="Bxi2xwBqtXDkEnMe3rkUqN9HOaBmaEydGcnqkYh15kJi6og+JVPzj0Jwm8adzkR134LCfOxw/laBXyVYGSTHBQ=="/>
+        </item>
+    </channel>
+</rss>
