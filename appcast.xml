@@ -3,6 +3,20 @@
     <channel>
         <title>Everything Clipboard</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Fri, 19 Jun 2026 17:24:47 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 0.2.2
+
+- Moves the Sparkle feed URL out of the app bundle Info.plist and into runtime updater configuration.
+- Switches new builds to the public GitHub Pages appcast while preserving the old raw GitHub appcast endpoint for installed copies.
+- Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
+]]></description>
+            <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-0.2.2-b4.dmg" length="6132933" type="application/octet-stream" sparkle:edSignature="0zlMMnzOFp3Tm5s4VYV3wRn12CcMH591c0GhqgZMkvc7ySEZudkesO/Sya6WwqGK1mnRLeArL8GdjL7eYx31Aw=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Wed, 17 Jun 2026 13:44:09 -0400</pubDate>
             <sparkle:version>3</sparkle:version>
