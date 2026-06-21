@@ -13,7 +13,7 @@
 - Moves the Sparkle feed URL out of the app bundle Info.plist and into runtime updater configuration.
 - Switches new builds to the public GitHub Pages appcast while preserving the old raw GitHub appcast endpoint for installed copies.
 - Keeps the menu-bar-only setting from hiding the app's only menu-bar entry point.
-- Uses  consistently for the user-facing app bundle and runtime executable.
+- Uses Everything Clipboard.app consistently for the user-facing app bundle and runtime executable.
 - Opens Accessibility settings from the Direct Paste repair flow without also triggering macOS's separate accessibility prompt.
 - Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
 ]]></description>
