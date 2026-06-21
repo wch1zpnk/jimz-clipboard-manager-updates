@@ -10,10 +10,9 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 1.1.0
 
-- Fixes selection for copied video and file items in the clipboard history list.
 - Keeps toolbar search open while typing.
 - Prevents background clipboard capture from bringing Everything Clipboard to the front.
-- Adds dark-mode control, default dark appearance, tabbed settings, and icon-and-text toolbar defaults.
+- Adds dark-mode control, default dark appearance, tabbed settings, Settings-window layout polish, and icon-and-text toolbar defaults.
 - Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
 ]]></description>
             <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-1.1.0.dmg" length="6260209" type="application/octet-stream" sparkle:edSignature="l/Ue5UrbzaXijnEWclNrHIjN2HngVBNwV+z2flqeO44Z+wZZmI/7Ctj36UDzQVFKb7KrfNkRlBzPV9jgDFZ6BA=="/>
