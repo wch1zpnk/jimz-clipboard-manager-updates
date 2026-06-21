@@ -4,6 +4,23 @@
         <title>Everything Clipboard</title>
         <item>
             <title>0.2.2</title>
+            <pubDate>Sun, 21 Jun 2026 00:44:24 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 0.2.2
+
+- Moves the Sparkle feed URL out of the app bundle Info.plist and into runtime updater configuration.
+- Switches new builds to the public GitHub Pages appcast while preserving the old raw GitHub appcast endpoint for installed copies.
+- Keeps the menu-bar-only setting from hiding the app's only menu-bar entry point.
+- Uses  consistently for the user-facing app bundle and runtime executable.
+- Opens Accessibility settings from the Direct Paste repair flow without also triggering macOS's separate accessibility prompt.
+- Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
+]]></description>
+            <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-0.2.2-b5.dmg" length="6136587" type="application/octet-stream" sparkle:edSignature="vpK2idvRg4ZUGFEa9lGkW7fffZHi2Dtp9OzUTE/pcEuvMRtYZe8MK7GQtdPsZKtvvGkNiLa6rgve4O/8ypt3Dg=="/>
+        </item>
+        <item>
+            <title>0.2.2</title>
             <pubDate>Fri, 19 Jun 2026 17:24:47 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
@@ -29,20 +46,6 @@
 - Keeps Sparkle update archives and appcast files publicly reachable while the source repository stays private.
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/wch1zpnk/jimz-clipboard-manager-updates/main/Releases/EverythingClipboard-0.2.1-b3.dmg" length="6131080" type="application/octet-stream" sparkle:edSignature="zXi2eIBTBSdPDs81AuCgVZ3Cok4eYh2kLKRqtmZOmdNBMb+F2OUOn+7Sz1asFOFVfqqxChmNl+Y9eax+5Qh6Cw=="/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Wed, 17 Jun 2026 13:14:20 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 0.2.0
-
-- Adds Sparkle-powered update checks for tester releases.
-- Allows normal macOS multi-selection in the clipboard list so several selected items can be deleted together.
-- Keeps Help and Settings as auxiliary windows so status-menu Open and Settings window ordering behave correctly.
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/wch1zpnk/jimz-clipboard-manager-updates/main/Releases/EverythingClipboard-0.2.0-b2.dmg" length="6131074" type="application/octet-stream" sparkle:edSignature="Bxi2xwBqtXDkEnMe3rkUqN9HOaBmaEydGcnqkYh15kJi6og+JVPzj0Jwm8adzkR134LCfOxw/laBXyVYGSTHBQ=="/>
         </item>
     </channel>
 </rss>
