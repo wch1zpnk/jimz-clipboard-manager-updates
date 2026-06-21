@@ -3,6 +3,22 @@
     <channel>
         <title>Everything Clipboard</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Sun, 21 Jun 2026 12:23:59 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 1.2.1
+
+- Keeps selected clipboard-history rows highlighted in blue while the sidebar also has a selection.
+- Adds right-click assignment to content categories for one item or the current multi-selection.
+- Adds Audio and Rich to the Content sidebar so the sidebar matches the assignable category list.
+- Keeps assigned categories searchable, filterable, and persisted with clipboard history.
+- Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
+]]></description>
+            <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-1.2.1.dmg" length="6359647" type="application/octet-stream" sparkle:edSignature="+FFZ+WIdibL3gJRPl/xYFjvhEspds6qfdY7tKoFwvO20+XzXUL3hSbtxz8Ssi47KAXg4Lgr6pApRiZ2WeiXGBg=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sun, 21 Jun 2026 10:58:50 -0400</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -33,21 +49,6 @@
 - Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
 ]]></description>
             <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-1.1.0.dmg" length="6260209" type="application/octet-stream" sparkle:edSignature="l/Ue5UrbzaXijnEWclNrHIjN2HngVBNwV+z2flqeO44Z+wZZmI/7Ctj36UDzQVFKb7KrfNkRlBzPV9jgDFZ6BA=="/>
-        </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Sun, 21 Jun 2026 02:27:30 -0400</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 1.0.8
-
-- Fixes selection for copied video and file items in the clipboard history list.
-- Keeps list-row clicks reliable by leaving media dragging in the selected item's detail preview.
-- Preserves the menu-bar update command and launch-time Sparkle background check.
-- Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
-]]></description>
-            <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-1.0.8.dmg" length="6139630" type="application/octet-stream" sparkle:edSignature="0WZlyAx10wOF6jzv2A/Goifyal6/u40z7KewLObUhc5eFh98KGQKDAFNBn2boYrP/Ode8VNYAygM9gMYrCsFDQ=="/>
         </item>
     </channel>
 </rss>
