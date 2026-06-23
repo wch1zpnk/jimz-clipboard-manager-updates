@@ -3,6 +3,22 @@
     <channel>
         <title>Everything Clipboard</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Tue, 23 Jun 2026 08:45:16 -0400</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 1.2.2
+
+- Fixes Configure Paste Stack so it opens a real Paste Stack panel from the toolbar.
+- Shows the selected-item count before replacing or extending the stack.
+- Keeps Paste Stack replace, append, clear, and per-item removal controls available in one window.
+- Includes the latest Settings pasteboard-monitoring and ignored-app picker refinements.
+- Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
+]]></description>
+            <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-1.2.2.dmg" length="6438525" type="application/octet-stream" sparkle:edSignature="QZP/W27olFDmX3TjOi9F1m8bABDvZryaFtstwP9J0VUgzMGFOcRPiRJsXQM/yAw5lkbg6gf/1jVAvavYPQkwBw=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Sun, 21 Jun 2026 12:23:59 -0400</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -34,21 +50,6 @@
 - Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
 ]]></description>
             <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-1.2.0.dmg" length="6344237" type="application/octet-stream" sparkle:edSignature="LmCl11I1VeJDyBvTlNFyxYuxwIb9AxIy6vuP7a7hoXERcM1XkoafeaKDcViVK06lp6C+SyRXVwq9mhvfb9bQAA=="/>
-        </item>
-        <item>
-            <title>1.1.0</title>
-            <pubDate>Sun, 21 Jun 2026 07:55:30 -0400</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Everything Clipboard 1.1.0
-
-- Keeps toolbar search open while typing.
-- Prevents background clipboard capture from bringing Everything Clipboard to the front.
-- Adds dark-mode control, default dark appearance, tabbed settings, Settings-window layout polish, and icon-and-text toolbar defaults.
-- Keeps the bundle identifier, Sparkle signing key, Keychain items, preferences, and local clipboard data continuity unchanged.
-]]></description>
-            <enclosure url="https://wch1zpnk.github.io/jimz-clipboard-manager-updates/Releases/EverythingClipboard-1.1.0.dmg" length="6260209" type="application/octet-stream" sparkle:edSignature="l/Ue5UrbzaXijnEWclNrHIjN2HngVBNwV+z2flqeO44Z+wZZmI/7Ctj36UDzQVFKb7KrfNkRlBzPV9jgDFZ6BA=="/>
         </item>
     </channel>
 </rss>
